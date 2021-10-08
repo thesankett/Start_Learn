@@ -1,0 +1,217 @@
+.mainContainer {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 1024px;
+  height: 768px;
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  /* background: url(../media/images/back.png); */
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  transform: translate(-50%, 0%);
+  -webkit-transform: translate(-50%, 0%);
+  left: 50%;
+}
+
+#slide03_header {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  letter-spacing: -1px;
+  color: #999999;
+  font-family: 'HelveticaNeueLTStd_LtCn';
+  -webkit-transform: matrix(1, 0, 0, 1, 256, 25);
+  transform: matrix(1, 0, 0, 1, 256, 25);
+}
+
+.common_popup_icon {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 950, 25);
+  transform: matrix(1, 0, 0, 1, 950, 25);
+  /* border: 1px solid red; */
+}
+
+#slide03_mainimg {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 860px;
+  height: 450px;
+  -webkit-transform: matrix(1, 0, 0, 1, 7, 163);
+  transform: matrix(1, 0, 0, 1, 7, 163);
+  /* border: 1px solid red; */
+}
+
+#slide03_img {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 835px;
+  height: 430px;
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+  transform: matrix(1, 0, 0, 1, 6, 12);
+  background-image: url(../media/images/03_slide/Pg-5-Pop-up.png);
+  /* border: 1px solid blueviolet; */
+}
+
+#slide03_mainImg_txt {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 660px;
+  height: 251px;
+  line-height: 1.2;
+  -webkit-transform: matrix(1, 0, 0, 1, 277, 13);
+  transform: matrix(1, 0, 0, 1, 277, 13);
+  /* border: 1px solid blueviolet; */
+}
+
+#slide03_mainImg_Exp {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 155px;
+  height: 40px;
+  font-size: 26px;
+  color: #000000;
+  font-family: 'HelveticaNeueLTStd_It';
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 10);
+  transform: matrix(1, 0, 0, 1, 0, 10);
+  /* border: 1px solid red; */
+}
+
+#slide03_mainImg_name {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 254px;
+  height: 40px;
+  font-size: 26px;
+  color: #000000;
+  font-family: 'HelveticaNeueLTStd_Roman';
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 50);
+  transform: matrix(1, 0, 0, 1, 0, 50);
+  /* border: 1px solid red; */
+}
+
+#slide03_mainImg_address {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: auto;
+  height: auto;
+  font-size: 26px;
+  color: #000000;
+  line-height: 1.4;
+  font-family: 'HelveticaNeueLTStd_Lt';
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 85);
+  transform: matrix(1, 0, 0, 1, 0, 85);
+  /* border: 1px solid red; */
+}
+
+#slide03_whitebox_calcul {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 531px;
+  height: 39px;
+  font-size: 26px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'HelveticaNeueLTStd_Roman';
+  -webkit-transform: matrix(1, 0, 0, 1, 280, 303);
+  transform: matrix(1, 0, 0, 1, 280, 303);
+  /* border: 1px solid red; */
+}
+
+#slide03_greenbox_txt {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 202px;
+  height: 27px;
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'HelveticaNeueLTStd_Roman';
+  -webkit-transform: matrix(1, 0, 0, 1, 316, 358);
+  transform: matrix(1, 0, 0, 1, 316, 358);
+  /* border: 1px solid red; */
+}
+
+#slide03_greenbox {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 210px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 313, 345);
+  transform: matrix(1, 0, 0, 1, 313, 345);
+  /* border: 1px solid red; */
+  z-index: 10;
+}
+
+#slide03_orangebox {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 210px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 563, 345);
+  transform: matrix(1, 0, 0, 1, 563, 345);
+  z-index: 10;
+  /* border: 1px solid red; */
+}
+
+#slide03_orangebox_txt {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 202px;
+  height: 37px;
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'HelveticaNeueLTStd_Roman';
+  -webkit-transform:matrix(1, 0, 0, 1, 565, 352);
+  transform:matrix(1, 0, 0, 1, 565, 352);
+  line-height: 1;
+  /* border: 1px solid red; */
+}
+
+.slide03_er {
+  top: 0px;
+  left: 0px;
+  font-size: 12px;
+  position: relative;
+}
+
+/***************************  common popup  ***************************/
+
+.slide_03_main {
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 10;
+}

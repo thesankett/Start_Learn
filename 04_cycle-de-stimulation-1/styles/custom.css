@@ -1,0 +1,110 @@
+.header {
+    top: 25px;
+    left: 255px;
+    margin: 0;
+    position: absolute;
+    width: auto;
+    height: auto;
+    font-size: 40px;
+    letter-spacing: -1px;
+    color: #999999;
+    font-family: 'HelveticaNeueLTStd_LtCn';
+}
+
+.subHeader {
+    top: 105px;
+    left: 270px;
+    margin: 0;
+    position: absolute;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    color: #ffffff;
+    letter-spacing: -0.4px;
+    font-family: 'HelveticaNeueLTStd_Roman';
+}
+
+.subHeader sup.er {
+    top: 0px;
+    left: 0px;
+    font-size: 12px;
+    position: relative;
+}
+
+.mobileLaptopImg {
+    top: 250px;
+    left: 98px;
+    position: absolute;
+    width: 900px;
+    height: 470px;
+    background-image: url(../media/images/mobile-laptop.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.common_popup_icon{
+    top: 0;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    -webkit-transform: matrix(1,0,0,1,950,25);
+    transform: matrix(1,0,0,1,950,25);
+    /* border: 1px solid red; */
+  }
+
+  #slide04_phtxt{
+    top: 0;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    width: 248px;
+    height: 36px;
+    font-size: 20px;
+    color: #000000;
+    font-family: 'HelveticaNeueLTStd_Roman';
+    -webkit-transform: matrix(1,0,0,1,107,588);
+    transform: matrix(1,0,0,1,107,588);
+    letter-spacing: -0.5px;
+    /* border: 1px solid red; */
+}
+
+
+#slide04_outlist_txt{
+    top: 0;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    width: 548px;
+    height: 36px;
+    font-size: 27px;
+    color: #000000;
+    font-family: 'HelveticaNeueLTStd_Lt';
+    -webkit-transform: matrix(1,0,0,1,257,160);
+    transform: matrix(1,0,0,1,257,160);
+    letter-spacing: -0.3px;
+    /* border: 1px solid red; */
+}
+
+#slide04_ipadtxt{
+    top: 0;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    width: 486px;
+    height: 36px;
+    font-size: 20px;
+    color: #000000;
+    font-family: 'HelveticaNeueLTStd_Roman';
+    -webkit-transform: matrix(1,0,0,1,478,684);
+    transform: matrix(1,0,0,1,478,684);
+    letter-spacing: -0.5px;
+    /* border: 1px solid red; */
+}
+.slide_04_link{
+
+    color: #000000;
+    text-decoration: none;
+
+}

@@ -1,0 +1,97 @@
+body{
+	-webkit-tap-highlight-color: transparent;
+}
+.logo {
+	top: 8px;
+	left: 34px;
+	position: absolute;
+	width: 161px;
+	height: 85px;
+	background-image: url(../../media/images/common/logo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: 20;
+}
+
+  
+  
+  /***************************  common popup  ***************************/
+  #ref_pop{
+	background-image: url(../../media/images/common/Common-Bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: 10;
+	height: 768px;
+    width: 1024px;
+    position: absolute;
+  }
+  
+  .common_popup{
+	  top: 0;
+	  left: 0;
+	  margin: 0;
+	  position: absolute;
+	  width: 850px;
+	  height: 490px;
+	  -webkit-transform: matrix(1,0,0,1,92,163);
+	  transform: matrix(1,0,0,1,92,163);
+	  z-index: 1;
+	  /* display: none; */
+  }
+  .refPopup{
+	display: none;
+}
+  .common_popup_img{
+	  top: 0;
+	  left: 0;
+	  margin: 0;
+	  position: absolute;
+	  width: 840px;
+	  height: 487px;
+	  -webkit-transform: matrix(1,0,0,1,0,0);
+	  transform: matrix(1,0,0,1,0,0);
+	  background-image: url(../../media/images/common/Pg-17---pop-up-image.png);
+  }
+ .common_popup_txt{
+	top: 0;
+	left: 0;
+	margin: 0;
+	position: absolute;
+	width: 743px;
+	height: 310px;
+	font-size: 14.5px;
+	line-height: 1.7;
+	/* text-align: center; */
+	color: #000000;
+	font-family: 'HelveticaNeueLTStd_Lt';
+	-webkit-transform: matrix(1,0,0,1,25,136);
+	transform: matrix(1,0,0,1,12,95);
+  }
+  .common_popup_sup{
+	  font-size: 8.5px;
+	  position: relative;
+	  top: 1px;
+  }
+  .common_popup_icon{
+	  top: 0;
+	  left: 0;
+	  margin: 0;
+	  position: absolute;
+	  width: 50px;
+	  height: 50px;
+	  -webkit-transform: matrix(1,0,0,1,950,25);
+	  transform: matrix(1,0,0,1,950,25);
+	  /* border: 1px solid red; */
+  }
+  .common_popup_cross{
+	  top: 0;
+	  left: 0;
+	  margin: 0;
+	  position: absolute;
+	  width: 40px;
+	  height: 40px;
+	  -webkit-transform: matrix(1,0,0,1,783,16);
+	  transform: matrix(1,0,0,1,783,16);
+	  /* border:1px solid red; */
+  }
+  

@@ -1,0 +1,105 @@
+.mainContainer {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 1024px;
+  height: 768px;
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  /* background: url(../media/images/back.png); */
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  transform: translate(-50%, 0%);
+  -webkit-transform: translate(-50%, 0%);
+  left: 50%;
+}
+
+#slide_10_img {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 598px;
+  height: 358px;
+  -webkit-transform: matrix(1, 0, 0, 1, 205, 306);
+  transform: matrix(1, 0, 0, 1, 205, 306);
+  background-image: url(../media/images/10_slide/Pg-12-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* border: 1px solid red; */
+}
+
+#slide_10_header {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 600px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 255, 25);
+  transform: matrix(1, 0, 0, 1, 255, 25);
+  font-family: 'HelveticaNeueLTStd_LtCn';
+  font-size: 40px;
+  letter-spacing: -1px;
+  color: #999999;
+}
+
+#slide_10_cnt1 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 880px;
+  height: 65px;
+  -webkit-transform: matrix(1, 0, 0, 1, 75, 169);
+  transform: matrix(1, 0, 0, 1, 77, 169);
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 26px;
+  color: #000000;
+  line-height: 1.14;
+}
+
+#slide_10_cnt2 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 900px;
+  height: 40px;
+  -webkit-transform:matrix(1, 0, 0, 1, 75, 256);
+  transform: matrix(1, 0, 0, 1, 75, 256);
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 26px;
+  color: #000000;
+  line-height: 1.14;
+  /* border: 1px solid red;*/
+}
+
+.subTxt {
+  font-size: 22px;
+}
+
+#slide_10_sup {
+  font-size: 15px;
+}
+
+/***************************  common popup  ***************************/
+
+.slide_10_main {
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 10;
+}
+
+.common_popup_icon {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 950, 25);
+  transform: matrix(1, 0, 0, 1, 950, 25);
+  /* border: 1px solid red; */
+}

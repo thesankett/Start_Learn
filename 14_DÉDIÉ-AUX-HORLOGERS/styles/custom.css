@@ -1,0 +1,99 @@
+.mainContainer {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 1024px;
+  height: 768px;
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  transform: translate(-50%, 0%);
+  -webkit-transform: translate(-50%, 0%);
+  left: 50%;
+}
+
+#ferring_logo {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 277px;
+  height: 140px;
+  -webkit-transform: matrix(1, 0, 0, 1, 373, 460);
+  transform: matrix(1, 0, 0, 1, 373, 460);
+  background-image: url(../media/images/14_slide/ferring_logo_big.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* border: 1px solid red; */
+}
+
+#slide_14_header {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 560px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 235, 355);
+  transform: matrix(1, 0, 0, 1, 235, 355);
+  font-family: 'HelveticaNeueLTStd_LtCn';
+  font-size: 42px;
+  letter-spacing: -1.8px;
+  color: #999999;
+  /* border: 1px solid red; */
+}
+
+#slide_14_sideCnt {
+  top: 488px;
+  left: 790px;
+  margin: 0;
+  position: absolute;
+  width: 434px;
+  height: 11px;
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+  font-family: 'Frutiger_Roman';
+  font-size: 10px;
+  letter-spacing: -0.25px;
+  color: #ffffff;
+  text-align: center;
+}
+
+#slide_14_footer {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 1024px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 706);
+  transform: matrix(1, 0, 0, 1, 0, 706);
+  font-family: 'Frutiger_Roman';
+  font-size: 16px;
+  letter-spacing: -1.4px;
+  text-align: center;
+  color: #000000;
+  /* border: 1px solid red;*/
+}
+
+/***************************  common popup  ***************************/
+
+.slide_14_main {
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 10;
+}
+
+.common_popup_icon {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 950, 25);
+  transform: matrix(1, 0, 0, 1, 950, 25);
+  /* border: 1px solid red; */
+}

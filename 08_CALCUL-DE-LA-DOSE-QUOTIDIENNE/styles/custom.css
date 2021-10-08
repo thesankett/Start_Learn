@@ -1,0 +1,70 @@
+.header {
+    top: 25px;
+    left: 255px;
+    margin: 0;
+    position: absolute;
+    width: auto;
+    height: auto;
+    font-size: 40px;
+    letter-spacing: -1px;
+    color: #999999;
+    font-family: 'HelveticaNeueLTStd_LtCn';
+}
+
+.calculateur {
+    top: 160px;
+    left: 258px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    font-family: 'HelveticaNeueLTStd_Lt';
+    font-size: 22px;
+    color: #000000;
+    line-height: 26px;
+    margin: 0;
+    padding: 0;
+}
+
+.calculateur sup {
+    font-size: 12px;
+    line-height: 1px;
+}
+
+.calculateur li {
+    top: 17px;
+    left: 1px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: auto;
+    height: auto;
+    font-family: 'HelveticaNeueLTStd_Lt';
+    font-size: 22px;
+    color: #000000;
+    line-height: 1.2;
+    margin-bottom: 11px;
+    list-style: none;
+}
+
+.menuIcon {
+    bottom: 20px;
+    right: 28px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url(../media/images/common/Burger-Menu.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.common_popup_icon{
+    top: 0;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    -webkit-transform: matrix(1,0,0,1,950,25);
+    transform: matrix(1,0,0,1,950,25);
+    /* border: 1px solid red; */
+  }

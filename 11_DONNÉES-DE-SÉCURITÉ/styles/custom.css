@@ -1,0 +1,286 @@
+.mainContainer {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 1024px;
+  height: 768px;
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  transform: translate(-50%, 0%);
+  -webkit-transform: translate(-50%, 0%);
+  left: 50%;
+}
+
+#slide_11_container {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 1024px;
+  height: 768px;
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#slide_11_header {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 375px;
+  height: 33px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 133);
+  transform: matrix(1, 0, 0, 1, 81, 133);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Cn';
+  font-size: 34px;
+  letter-spacing: -0.45px;
+  color: #9178b5;
+}
+
+#slide_11_cnt1 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 375px;
+  height: 20px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 211);
+  transform: matrix(1, 0, 0, 1, 81, 211);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_BdCn';
+  font-size: 15px;
+  letter-spacing: 0px;
+  color: #9178b5;
+}
+
+#slide_11_cnt2 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 865px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 234);
+  transform: matrix(1, 0, 0, 1, 81, 234);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  letter-spacing: -0.1px;
+  line-height: 1.2;
+  text-align: justify;
+  color: #000000;
+}
+
+#purp_color {
+  color: #9178b5;
+  font-family: 'HelveticaNeueLTStd_MdCn';
+  font-size: 15px;
+}
+
+#slide_11_cnt3 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 865px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 257);
+  transform: matrix(1, 0, 0, 1, 81, 257);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.2;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt4 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 865px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 280);
+  transform: matrix(1, 0, 0, 1, 81, 280);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.2;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt5 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 870px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 82, 301);
+  transform: matrix(1, 0, 0, 1, 82, 301);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.2;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt6 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 870px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 343);
+  transform: matrix(1, 0, 0, 1, 81, 343);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.2;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt7 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 870px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 384);
+  transform: matrix(1, 0, 0, 1, 81, 384);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.2;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt8 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 870px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 425);
+  transform: matrix(1, 0, 0, 1, 81, 425);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.4;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt9 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 870px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 495);
+  transform: matrix(1, 0, 0, 1, 81, 495);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_BdCn';
+  font-size: 15px;
+  letter-spacing: 0px;
+  color: #9178b5;
+}
+
+#slide_11_cnt10 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 881px;
+  height: 95px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 517);
+  transform: matrix(1, 0, 0, 1, 81, 517);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.25;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt11 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 881px;
+  height: 95px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 617);
+  transform: matrix(1, 0, 0, 1, 81, 617);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.25;
+  letter-spacing: 0px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_cnt12 {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 865px;
+  height: 63px;
+  -webkit-transform: matrix(1, 0, 0, 1, 81, 697);
+  transform: matrix(1, 0, 0, 1, 81, 697);
+  /* border: 1px solid red; */
+  font-family: 'HelveticaNeueLTStd_Lt';
+  font-size: 15px;
+  line-height: 1.2;
+  letter-spacing: -0.1px;
+  text-align: justify;
+  color: #000000;
+}
+
+#slide_11_sup {
+  top: 1px;
+  font-size: 10px;
+  position: relative;
+}
+
+/***************************  common popup  ***************************/
+
+.slide_11_main {
+  background-image: url(../media/images/common/Common-Bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 10;
+}
+
+.common_popup_icon {
+  top: 0;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: matrix(1, 0, 0, 1, 950, 25);
+  transform: matrix(1, 0, 0, 1, 950, 25);
+  /* border: 1px solid red; */
+}
